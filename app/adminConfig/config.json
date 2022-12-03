@@ -1,0 +1,15 @@
+{
+    "mysql": {
+        "database": "labwork",
+        "user": "labwork",
+        "password": "123"
+    },
+    "server": {
+        "port": 8082
+    },
+    "app": {
+        "layouts": true,
+        "themes": true,
+        "languages": true
+    }
+}
